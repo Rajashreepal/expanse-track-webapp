@@ -1,0 +1,1 @@
+var e=["Travel","Food & Dining","Accommodation","Office Supplies","Software/Tools","Training","Client Entertainment","Other"],n=["Engineering","Marketing","Sales","Operations","Finance","HR","Product"];export{e as a,n as b};

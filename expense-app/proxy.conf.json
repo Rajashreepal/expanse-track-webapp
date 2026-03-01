@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "https://expanse-track-webapp.azurewebsites.net",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
