@@ -1,0 +1,16 @@
+<step title="Incoming Request" date="2026-03-01T21:11:29.677" instance="f713f0" url="/api/zipdeploy?isAsync=true" method="POST" type="request" pid="5908,2,7" Cache-Control="no-cache" Connection="Keep-Alive" Content-Length="6537600" Content-Type="application/octet-stream" Accept="*/*" Accept-Encoding="gzip, deflate" Authorization="Bea..." Host="expanse-track-webapp.scm.azurewebsites.net" User-Agent="AZURECLI/2.83.0 (MSI)" x-ms-client-request-id="5a59c6bb-15b3-11f1-a20f-005056c00008" X-ARR-LOG-ID="5a59c6bb-15b3-11f1-a20f-005056c00008" CLIENT-IP="45.115.188.61:59261" X-SITE-DEPLOYMENT-ID="expanse-track-webapp" WAS-DEFAULT-HOSTNAME="expanse-track-webapp.scm.azurewebsites.net" X-Forwarded-Proto="https" X-AppService-Proto="https" X-Forwarded-TlsVersion="1.3" X-WAWS-Unencoded-URL="/api/zipdeploy?isAsync=true" X-MS-COLDSTART="1" >
+  <step title="ZipPushDeploy" date="2026-03-01T21:11:30.224" >
+    <step title="ZipDeploy. Extract zip. " date="2026-03-01T21:11:30.240" /><!-- duration: 0ms -->
+    <step title="Starting PushDeployAsync" date="2026-03-01T21:11:30.240" /><!-- duration: 0ms -->
+    <step title="Updating shutdown sentinel last write time" date="2026-03-01T21:11:30.287" SemaphoreCount="7" /><!-- duration: 0ms -->
+    <step title="LockFile &apos;C:\home\site\locks\deployments.lock&apos; acquired" date="2026-03-01T21:11:30.287" /><!-- duration: 16ms -->
+    <step title="Saving request content to C:\local\Temp\zipdeploy\wgk23vfp.zip" date="2026-03-01T21:11:30.302" >
+      <step title="Total 6,537,600 bytes written to C:\local\Temp\zipdeploy\wgk23vfp.zip" date="2026-03-01T21:11:30.380" /><!-- duration: 0ms -->
+    </step><!-- duration: 78ms -->
+    <step title="LockFile &apos;C:\home\site\locks\deployments.lock&apos; released" date="2026-03-01T21:11:30.396" /><!-- duration: 0ms -->
+    <step title="Deleting shutdown sentinel file" date="2026-03-01T21:11:30.396" SemaphoreCount="8" /><!-- duration: 0ms -->
+    <step title="Starting FetchDeploy" date="2026-03-01T21:11:30.396" /><!-- duration: 0ms -->
+    <step title="Start deployment in the background" date="2026-03-01T21:11:30.412" /><!-- duration: 47ms -->
+  </step><!-- duration: 234ms -->
+  <step title="Outgoing response" date="2026-03-01T21:11:30.506" type="response" statusCode="202" statusText="Accepted" Server="Microsoft-IIS/10.0" x-ms-request-id="5a59c6bb-15b3-11f1-a20f-005056c00008" Retry-After="30" Cache-Control="private" X-AspNet-Version="4.0.30319" Location="https://expanse-track-webapp.scm.azurewebsites.net/api/deployments/latest?deployer=ZipDeploy&amp;time=2026-03-01_21-11-30Z" /><!-- duration: 0ms -->
+</step><!-- duration: 828ms -->

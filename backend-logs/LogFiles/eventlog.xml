@@ -1,0 +1,488 @@
+<Events><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>2</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:24:01Z"/><EventRecordID>171936218</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+EventId: 35
+
+No XML encryptor configured. Key {510c3689-b0f2-4a5a-85d5-27266ba2bc10} may be persisted to storage in unencrypted form.
+</Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1032</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:24:01Z"/><EventRecordID>171936265</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'C:\home\site\wwwroot\' started successfully.</Data><Data>Process Id: 7744.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1012</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:43:50Z"/><EventRecordID>173125187</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'C:\home\site\wwwroot\' was recycled after detecting app_offline.htm.</Data><Data>Process Id: 7744.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1033</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:43:50Z"/><EventRecordID>173125218</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'MACHINE/WEBROOT/APPHOST/EXPANSE-TRACK-WEBAPP' has shutdown.</Data><Data>Process Id: 7744.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1032</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:44:32Z"/><EventRecordID>173167593</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'C:\home\site\wwwroot\' started successfully.</Data><Data>Process Id: 11984.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1012</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:48:01Z"/><EventRecordID>173376968</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'C:\home\site\wwwroot\' was recycled after detecting app_offline.htm.</Data><Data>Process Id: 11984.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1033</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:48:02Z"/><EventRecordID>173377015</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'MACHINE/WEBROOT/APPHOST/EXPANSE-TRACK-WEBAPP' has shutdown.</Data><Data>Process Id: 11984.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1032</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T15:48:50Z"/><EventRecordID>173425812</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'C:\home\site\wwwroot\' started successfully.</Data><Data>Process Id: 5836.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1033</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-01T16:25:50Z"/><EventRecordID>175645296</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'MACHINE/WEBROOT/APPHOST/EXPANSE-TRACK-WEBAPP' has shutdown.</Data><Data>Process Id: 5836.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1032</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:29:16Z"/><EventRecordID>247848781</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'C:\home\site\wwwroot\' started successfully.</Data><Data>Process Id: 8488.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:29:21Z"/><EventRecordID>247853734</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer
+EventId: 2
+SpanId: be07fc87d65b5f3a
+TraceId: 6784b1f0b6d18c4b9146cc9444423f23
+ParentId: 0000000000000000
+RequestId: 40001bf3-0002-ee00-b63f-84710c7967bb
+RequestPath: /api/Expenses/my-expenses
+
+Connection ID "17149707390422096718", Request ID "40001bf3-0002-ee00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+
+Exception: 
+System.InvalidOperationException: The client projection contains a reference to a constant expression of 'Backend.Services.ExpenseService' through the instance method 'MapToDto'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information and examples.
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.ConstantVerifyingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VerifyNoClientConstant(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitShapedQuery(ShapedQueryExpression shapedQueryExpression)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at System.Linq.Expressions.Expression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.&lt;&gt;c__DisplayClass9_0`1.&lt;Execute&gt;b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Backend.Services.ExpenseService.GetUserExpenses(String userId, String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Services\ExpenseService.cs:line 78
+   at Backend.Controllers.ExpensesController.GetMyExpenses(String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Controllers\ExpensesController.cs:line 59
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+</Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:29:52Z"/><EventRecordID>247884671</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.EntityFrameworkCore.Database.Connection
+EventId: 20004
+SpanId: 02cb4a6be3e48a90
+TraceId: f20b40433c518f09f6ce239215f19f49
+ParentId: 0000000000000000
+RequestId: 40000106-0005-f600-b63f-84710c7967bb
+RequestPath: /api/Auth/login
+ActionId: bad963bb-da69-4ad1-a0ee-646d3a647121
+ActionName: Backend.Controllers.AuthController.Login (Backend)
+
+An error occurred using the connection to database 'expenseTrack-db' on server 'tcp:allinone-db-server.database.windows.net,1433'.
+</Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:29:52Z"/><EventRecordID>247884703</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.EntityFrameworkCore.Query
+EventId: 10100
+SpanId: 02cb4a6be3e48a90
+TraceId: f20b40433c518f09f6ce239215f19f49
+ParentId: 0000000000000000
+RequestId: 40000106-0005-f600-b63f-84710c7967bb
+RequestPath: /api/Auth/login
+ActionId: bad963bb-da69-4ad1-a0ee-646d3a647121
+ActionName: Backend.Controllers.AuthController.Login (Backend)
+
+An exception occurred while iterating over the results of a query for context type 'Backend.Data.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=321; handshake=40; [Login] initialization=14; authentication=22; [Post-Login] complete=29161; 
+ ---&gt; System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte&amp; value)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.&lt;&gt;c.&lt;MoveNext&gt;b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:4f1944f6-b85a-4c09-9b3a-17c6f7e050f6
+Error Number:-2,State:0,Class:11
+
+Exception: 
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=321; handshake=40; [Login] initialization=14; authentication=22; [Post-Login] complete=29161; 
+ ---&gt; System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte&amp; value)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.&lt;&gt;c.&lt;MoveNext&gt;b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:4f1944f6-b85a-4c09-9b3a-17c6f7e050f6
+Error Number:-2,State:0,Class:11
+</Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:29:52Z"/><EventRecordID>247884750</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer
+EventId: 2
+SpanId: 02cb4a6be3e48a90
+TraceId: f20b40433c518f09f6ce239215f19f49
+ParentId: 0000000000000000
+RequestId: 40000106-0005-f600-b63f-84710c7967bb
+RequestPath: /api/Auth/login
+
+Connection ID "17726168155610415363", Request ID "40000106-0005-f600-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+
+Exception: 
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=321; handshake=40; [Login] initialization=14; authentication=22; [Post-Login] complete=29161; 
+ ---&gt; System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte&amp; value)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.&lt;&gt;c.&lt;MoveNext&gt;b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean&amp; found)
+   at lambda_method24(Closure, QueryContext)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at Backend.Services.AuthService.Login(LoginRequest request) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Services\AuthService.cs:line 23
+   at Backend.Controllers.AuthController.Login(LoginRequest request) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Controllers\AuthController.cs:line 27
+   at lambda_method21(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+ClientConnectionId:4f1944f6-b85a-4c09-9b3a-17c6f7e050f6
+Error Number:-2,State:0,Class:11
+</Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:30:21Z"/><EventRecordID>247913562</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer
+EventId: 2
+SpanId: 9d77e9aa011410fc
+TraceId: e6f8af5d82e7a56aaf4d74c3a0fd370b
+ParentId: 0000000000000000
+RequestId: 400016ff-0002-ec00-b63f-84710c7967bb
+RequestPath: /api/Expenses/my-expenses
+
+Connection ID "17005592202346239710", Request ID "400016ff-0002-ec00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+
+Exception: 
+System.InvalidOperationException: The client projection contains a reference to a constant expression of 'Backend.Services.ExpenseService' through the instance method 'MapToDto'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information and examples.
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.ConstantVerifyingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VerifyNoClientConstant(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitShapedQuery(ShapedQueryExpression shapedQueryExpression)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at System.Linq.Expressions.Expression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.&lt;&gt;c__DisplayClass9_0`1.&lt;Execute&gt;b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Backend.Services.ExpenseService.GetUserExpenses(String userId, String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Services\ExpenseService.cs:line 78
+   at Backend.Controllers.ExpensesController.GetMyExpenses(String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Controllers\ExpensesController.cs:line 59
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+</Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:31:31Z"/><EventRecordID>247983671</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer
+EventId: 2
+SpanId: ec53392d7455cd4b
+TraceId: e40ceaba4c61b817b2ee20fd7cdbc5c0
+ParentId: 0000000000000000
+RequestId: 40001c38-0002-ee00-b63f-84710c7967bb
+RequestPath: /api/Expenses/my-expenses
+
+Connection ID "17149707390422096718", Request ID "40001c38-0002-ee00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+
+Exception: 
+System.InvalidOperationException: The client projection contains a reference to a constant expression of 'Backend.Services.ExpenseService' through the instance method 'MapToDto'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information and examples.
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.ConstantVerifyingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VerifyNoClientConstant(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitShapedQuery(ShapedQueryExpression shapedQueryExpression)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at System.Linq.Expressions.Expression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.&lt;&gt;c__DisplayClass9_0`1.&lt;Execute&gt;b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Backend.Services.ExpenseService.GetUserExpenses(String userId, String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Services\ExpenseService.cs:line 78
+   at Backend.Controllers.ExpensesController.GetMyExpenses(String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Controllers\ExpensesController.cs:line 59
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+</Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1033</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:31:59Z"/><EventRecordID>248011671</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'MACHINE/WEBROOT/APPHOST/EXPANSE-TRACK-WEBAPP' has shutdown.</Data><Data>Process Id: 8488.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name="IIS AspNetCore Module V2"/><EventID>1032</EventID><Level>4</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:33:04Z"/><EventRecordID>248077140</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Application 'C:\home\site\wwwroot\' started successfully.</Data><Data>Process Id: 17568.</Data><Data>File Version: 18.0.25301.22. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: </Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:33:06Z"/><EventRecordID>248078343</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer
+EventId: 2
+SpanId: 854cc378665cf12b
+TraceId: 70ce64c285d49c865245140371adc544
+ParentId: 0000000000000000
+RequestId: 40002167-0002-f500-b63f-84710c7967bb
+RequestPath: /api/Expenses/my-expenses
+
+Connection ID "17654110548687593830", Request ID "40002167-0002-f500-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+
+Exception: 
+System.InvalidOperationException: The client projection contains a reference to a constant expression of 'Backend.Services.ExpenseService' through the instance method 'MapToDto'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information and examples.
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.ConstantVerifyingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VerifyNoClientConstant(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitShapedQuery(ShapedQueryExpression shapedQueryExpression)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at System.Linq.Expressions.Expression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.&lt;&gt;c__DisplayClass9_0`1.&lt;Execute&gt;b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Backend.Services.ExpenseService.GetUserExpenses(String userId, String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Services\ExpenseService.cs:line 78
+   at Backend.Controllers.ExpensesController.GetMyExpenses(String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Controllers\ExpensesController.cs:line 59
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+</Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:33:11Z"/><EventRecordID>248084078</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer
+EventId: 2
+SpanId: 3279f5361c1ed793
+TraceId: 82d52ae8dbdf92c883dca2142a4ce935
+ParentId: 0000000000000000
+RequestId: 40001706-0002-ec00-b63f-84710c7967bb
+RequestPath: /api/Expenses/my-expenses
+
+Connection ID "17005592202346239710", Request ID "40001706-0002-ec00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+
+Exception: 
+System.InvalidOperationException: The client projection contains a reference to a constant expression of 'Backend.Services.ExpenseService' through the instance method 'MapToDto'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information and examples.
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.ConstantVerifyingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VerifyNoClientConstant(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitShapedQuery(ShapedQueryExpression shapedQueryExpression)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at System.Linq.Expressions.Expression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.&lt;&gt;c__DisplayClass9_0`1.&lt;Execute&gt;b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Backend.Services.ExpenseService.GetUserExpenses(String userId, String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Services\ExpenseService.cs:line 78
+   at Backend.Controllers.ExpensesController.GetMyExpenses(String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Controllers\ExpensesController.cs:line 59
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+</Data></EventData></Event><Event><System><Provider Name=".NET Runtime"/><EventID>1000</EventID><Level>1</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2026-03-02T12:33:20Z"/><EventRecordID>248093015</EventRecordID><Channel>Application</Channel><Computer>WEBWK000016</Computer><Security/></System><EventData><Data>Category: Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer
+EventId: 2
+SpanId: 1b39c1e726a0eb98
+TraceId: 6f44aad8881eab5fa719deffa504cdc1
+ParentId: 0000000000000000
+RequestId: 40003500-0006-fb00-b63f-84710c7967bb
+RequestPath: /api/Expenses/my-expenses
+
+Connection ID "18086456130095035647", Request ID "40003500-0006-fb00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+
+Exception: 
+System.InvalidOperationException: The client projection contains a reference to a constant expression of 'Backend.Services.ExpenseService' through the instance method 'MapToDto'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information and examples.
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.ConstantVerifyingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VerifyNoClientConstant(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitShapedQuery(ShapedQueryExpression shapedQueryExpression)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.VisitExtension(Expression extensionExpression)
+   at System.Linq.Expressions.Expression.Accept(ExpressionVisitor visitor)
+   at System.Linq.Expressions.ExpressionVisitor.Visit(Expression node)
+   at Microsoft.EntityFrameworkCore.Query.QueryCompilationContext.CreateQueryExecutor[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Storage.Database.CompileQuery[TResult](Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore[TResult](IDatabase database, Expression query, IModel model, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.&lt;&gt;c__DisplayClass9_0`1.&lt;Execute&gt;b__0()
+   at Microsoft.EntityFrameworkCore.Query.Internal.CompiledQueryCache.GetOrAddQuery[TResult](Object cacheKey, Func`1 compiler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Backend.Services.ExpenseService.GetUserExpenses(String userId, String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Services\ExpenseService.cs:line 78
+   at Backend.Controllers.ExpensesController.GetMyExpenses(String status, String category, String search) in D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\Controllers\ExpensesController.cs:line 59
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+</Data></EventData></Event></Events>

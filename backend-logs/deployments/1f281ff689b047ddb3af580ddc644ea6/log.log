@@ -1,0 +1,29 @@
+2026-03-01T15:43:49.7268135Z,Updating submodules.,b8a53917-8393-4fa2-bcf2-850c1b5a0359,0
+2026-03-01T15:43:49.7580641Z,Preparing deployment for commit id '1f281ff689'.,2f555359-671e-4736-8c3b-20bdbba384ae,0
+2026-03-01T15:43:49.8205618Z,Running build. Project type: OneDeploy,1bbf1190-1814-47ec-9652-58e23e36b51c,0
+2026-03-01T15:43:49.8518144Z,Copying the manifest,e04488cc-ae07-4644-aa27-9f6d9e58cfd9,0
+2026-03-01T15:43:49.8674417Z,Clean deploying to C:\home\site\wwwroot,bae1baeb-f572-465d-b65d-d7d2ce469154,0
+2026-03-01T15:43:49.8986905Z,Generating deployment script.,e69ddf6e-70f9-4a47-98f3-9c216946eb7b,0
+	2026-03-01T15:43:49.9611909Z,Using cached version of deployment script (command: 'azure -y --no-dot-deployment -r "C:\local\Temp\zipdeploy\extracted" -o "C:\home\site\deployments\tools" --basic --sitePath "C:\local\Temp\zipdeploy\extracted"').,,0
+2026-03-01T15:43:50.0080730Z,Running deployment command...,80a053ae-8173-4581-b89a-6bdc901b6eef,0
+	2026-03-01T15:43:50.0080730Z,Command: "C:\home\site\deployments\tools\deploy.cmd",,0
+	2026-03-01T15:43:50.1643241Z,Handling Basic Web Site deployment.,,0
+	2026-03-01T15:43:52.5081536Z,Creating app_offline.htm,,0
+	2026-03-01T15:43:52.5081536Z,KuduSync.NET from: 'C:\local\Temp\zipdeploy\extracted' to: 'C:\home\site\wwwroot',,0
+	2026-03-01T15:43:52.5237805Z,Copying file: 'Backend.dll',,0
+	2026-03-01T15:43:52.5237805Z,Copying file: 'Backend.exe',,0
+	2026-03-01T15:43:52.5394039Z,Copying file: 'Backend.pdb',,0
+	2026-03-01T15:43:52.5394039Z,Copying file: 'publish\publish\appsettings.Development.json',,0
+	2026-03-01T15:43:52.5550264Z,Copying file: 'publish\publish\appsettings.json',,0
+	2026-03-01T15:43:52.5706566Z,Copying file: 'publish\publish\Backend.deps.json',,0
+	2026-03-01T15:43:52.5706566Z,Copying file: 'publish\publish\Backend.runtimeconfig.json',,0
+	2026-03-01T15:43:52.5706566Z,Copying file: 'publish\publish\Backend.staticwebassets.endpoints.json',,0
+	2026-03-01T15:43:52.5862778Z,Copying file: 'publish\publish\web.config',,0
+	2026-03-01T15:43:52.5862778Z,Deleting app_offline.htm,,0
+	2026-03-01T15:43:52.6019044Z,Finished successfully.,,0
+2026-03-01T15:43:52.6331568Z,Build completed succesfully.,f47009ff-3870-4437-a449-2a3e19109b16,0
+2026-03-01T15:43:52.6487799Z,Running post deployment command(s)...,0aa4a755-223f-48ec-9978-24039b7c1957,0
+2026-03-01T15:43:52.6800316Z,Requesting site restart,f1009ed3-88ba-4be3-93fa-081e40bb5288,0
+2026-03-01T15:43:52.7112870Z,Requesting site restart. Attempt #1,3d8fad21-bacb-4409-b8c5-1f309d7f1f91,0
+2026-03-01T15:43:53.0394257Z,Successfully requested a restart. Attempt #1,3d68a150-66a7-4a92-b0fe-14e4abc2dece,0
+2026-03-01T15:43:53.0706709Z,Deployment successful.,1efc7bde-4ae0-4323-821b-cba43769f464,0

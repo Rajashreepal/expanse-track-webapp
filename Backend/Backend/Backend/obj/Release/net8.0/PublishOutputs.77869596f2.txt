@@ -1,6 +1,4 @@
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\Backend.exe
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\publish\web.config
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\web.config
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\web.config
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\appsettings.Development.json
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\appsettings.json
@@ -9,16 +7,6 @@ D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\appsettings.
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\Backend.deps.json
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\Backend.runtimeconfig.json
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\Backend.staticwebassets.endpoints.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\appsettings.Development.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\appsettings.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\Backend.deps.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\Backend.runtimeconfig.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\Backend.staticwebassets.endpoints.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\publish\appsettings.Development.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\publish\appsettings.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\publish\Backend.deps.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\publish\Backend.runtimeconfig.json
-D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\publish\publish\publish\Backend.staticwebassets.endpoints.json
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\Backend.dll
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\Backend.runtimeconfig.json
 D:\ .NET\ExpenseTrackWebApp\Backend\Backend\Backend\publish\Backend.pdb

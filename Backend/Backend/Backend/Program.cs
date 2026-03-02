@@ -57,14 +57,18 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAngularApp",
         policy =>
         {
-            policy.WithOrigins(
-                    "http://localhost:4200",
-                    "https://expanse-track-webapp.azurewebsites.net",
-                    "https://5d0234f1e139528b--expanse-track-webapp.netlify.app"
-                  )
-                  .AllowAnyHeader()
-                  .AllowAnyMethod()
-                  .AllowCredentials();
+            policy.SetIsOriginAllowed(origin => 
+                {
+                    // Allow localhost and all Netlify/Azure/GitHub deployments
+                    return origin.Contains("localhost") ||
+                           origin.Contains("netlify.app") ||
+                           origin.Contains("azurewebsites.net") ||
+                           origin.Contains("github.io");
+                })
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowCredentials()
+                .WithExposedHeaders("*");
         });
 });
 

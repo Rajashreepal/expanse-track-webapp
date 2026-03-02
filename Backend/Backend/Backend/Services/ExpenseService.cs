@@ -65,17 +65,18 @@ public class ExpenseService : IExpenseService
             query = query.Where(e => e.Status.ToString() == status);
 
         if (!string.IsNullOrEmpty(category))
-            query = query.Where(e => FormatCategory(e.Category) == category);
+        {
+            var parsedCategory = ParseCategory(category);
+            query = query.Where(e => e.Category == parsedCategory);
+        }
 
         if (!string.IsNullOrEmpty(search))
         {
             search = search.ToLower();
-            query = query.Where(e => 
-                e.Title.ToLower().Contains(search) || 
-                FormatCategory(e.Category).ToLower().Contains(search));
+            query = query.Where(e => e.Title.ToLower().Contains(search));
         }
 
-        return query.OrderByDescending(e => e.SubmittedAt).Select(e => MapToDto(e)).ToList();
+        return query.OrderByDescending(e => e.SubmittedAt).ToList().Select(e => MapToDto(e)).ToList();
     }
 
     public ExpenseDto? GetExpenseById(string id)
@@ -92,18 +93,20 @@ public class ExpenseService : IExpenseService
             query = query.Where(e => e.Status.ToString() == status);
 
         if (!string.IsNullOrEmpty(category))
-            query = query.Where(e => FormatCategory(e.Category) == category);
+        {
+            var parsedCategory = ParseCategory(category);
+            query = query.Where(e => e.Category == parsedCategory);
+        }
 
         if (!string.IsNullOrEmpty(search))
         {
             search = search.ToLower();
             query = query.Where(e => 
                 e.UserName.ToLower().Contains(search) ||
-                e.Title.ToLower().Contains(search) || 
-                FormatCategory(e.Category).ToLower().Contains(search));
+                e.Title.ToLower().Contains(search));
         }
 
-        return query.OrderByDescending(e => e.SubmittedAt).Select(e => MapToDto(e)).ToList();
+        return query.OrderByDescending(e => e.SubmittedAt).ToList().Select(e => MapToDto(e)).ToList();
     }
 
     public List<ExpenseDto> GetPendingExpenses()

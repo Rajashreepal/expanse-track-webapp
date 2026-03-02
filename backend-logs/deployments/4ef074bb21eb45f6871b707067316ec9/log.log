@@ -1,0 +1,21 @@
+2026-03-01T15:48:01.5911906Z,Updating submodules.,dd0e2822-952f-4a31-b2b9-498eb1208904,0
+2026-03-01T15:48:01.6224467Z,Preparing deployment for commit id '4ef074bb21'.,0b166340-1670-4a5f-93a9-48280086320a,0
+2026-03-01T15:48:01.6849435Z,Running build. Project type: OneDeploy,fbfa6805-2f9c-4020-977b-7993da2de091,0
+2026-03-01T15:48:01.7005704Z,Copying the manifest,23c5effe-1578-441b-a70d-7775a2e8d630,0
+2026-03-01T15:48:01.7318790Z,Clean deploying to C:\home\site\wwwroot,395e2095-22b7-4ee6-95b5-352c17166ae1,0
+2026-03-01T15:48:01.7474458Z,Generating deployment script.,f242b38d-4ff7-47fb-87cb-7431f99df59a,0
+	2026-03-01T15:48:01.7630728Z,Using cached version of deployment script (command: 'azure -y --no-dot-deployment -r "C:\local\Temp\zipdeploy\extracted" -o "C:\home\site\deployments\tools" --basic --sitePath "C:\local\Temp\zipdeploy\extracted"').,,0
+2026-03-01T15:48:01.8099517Z,Running deployment command...,181b0c86-4259-4993-a90f-418cc325dc4b,0
+	2026-03-01T15:48:01.8255760Z,Command: "C:\home\site\deployments\tools\deploy.cmd",,0
+	2026-03-01T15:48:01.9505808Z,Handling Basic Web Site deployment.,,0
+	2026-03-01T15:48:02.0755934Z,Creating app_offline.htm,,0
+	2026-03-01T15:48:02.0912174Z,KuduSync.NET from: 'C:\local\Temp\zipdeploy\extracted' to: 'C:\home\site\wwwroot',,0
+	2026-03-01T15:48:02.1068379Z,Copying file: 'wwwroot',,0
+	2026-03-01T15:48:02.1068379Z,Deleting app_offline.htm,,0
+	2026-03-01T15:48:02.1224649Z,Finished successfully.,,0
+2026-03-01T15:48:02.1380905Z,Build completed succesfully.,4fafcfca-e365-48b8-a959-997060489503,0
+2026-03-01T15:48:02.1537141Z,Running post deployment command(s)...,02edcce4-b108-46e0-ad5d-2ff918af0c2d,0
+2026-03-01T15:48:02.1850351Z,Requesting site restart,711f54b7-1ef7-4a8a-8d8d-12acdd373fe1,0
+2026-03-01T15:48:02.2005906Z,Requesting site restart. Attempt #1,452e6c62-4e8e-41f7-99ba-0e8f445dbf24,0
+2026-03-01T15:48:02.3412478Z,Successfully requested a restart. Attempt #1,a92911d9-d9b1-4763-a2a8-96ea8f211f2f,0
+2026-03-01T15:48:02.4193525Z,Deployment successful.,c1efb675-0ef9-4ce1-9c4f-5cb948c31238,0

@@ -1,0 +1,23 @@
+2026-03-01T21:11:30.8810191Z,Updating submodules.,a9d6b805-9e0f-43db-8541-16d9792c9e63,0
+2026-03-01T21:11:30.9122686Z,Preparing deployment for commit id 'dffebe63f9'.,00f2d5d6-0970-400e-b969-93024f1e7409,0
+2026-03-01T21:11:30.9747703Z,Generating deployment script.,7f2dadf2-e9c6-45f7-90d1-6bb882aece9c,0
+	2026-03-01T21:11:31.0216653Z,Using cached version of deployment script (command: 'azure -y --no-dot-deployment -r "C:\local\Temp\zipdeploy\extracted" -o "C:\home\site\deployments\tools" --basic --sitePath "C:\local\Temp\zipdeploy\extracted"').,,0
+2026-03-01T21:11:31.0372715Z,Running deployment command...,9772f651-8756-49ef-ac82-d2db8ae365dd,0
+	2026-03-01T21:11:31.0528990Z,Command: "C:\home\site\deployments\tools\deploy.cmd",,0
+	2026-03-01T21:11:31.1935326Z,Handling Basic Web Site deployment.,,0
+	2026-03-01T21:11:31.3497897Z,Creating app_offline.htm,,0
+	2026-03-01T21:11:31.3654185Z,KuduSync.NET from: 'C:\local\Temp\zipdeploy\extracted' to: 'C:\home\site\wwwroot',,0
+	2026-03-01T21:11:31.3654185Z,Copying file: 'Backend.dll',,0
+	2026-03-01T21:11:31.3654185Z,Copying file: 'Backend.exe',,0
+	2026-03-01T21:11:31.3810382Z,Copying file: 'Backend.pdb',,0
+	2026-03-01T21:11:31.3810382Z,Copying file: 'publish\publish\publish\publish\appsettings.Development.json',,0
+	2026-03-01T21:11:31.3966597Z,Copying file: 'publish\publish\publish\publish\appsettings.json',,0
+	2026-03-01T21:11:31.3966597Z,Copying file: 'publish\publish\publish\publish\Backend.deps.json',,0
+	2026-03-01T21:11:31.3966597Z,Copying file: 'publish\publish\publish\publish\Backend.runtimeconfig.json',,0
+	2026-03-01T21:11:31.4122870Z,Copying file: 'publish\publish\publish\publish\Backend.staticwebassets.endpoints.json',,0
+	2026-03-01T21:11:31.4122870Z,Copying file: 'publish\publish\publish\publish\web.config',,0
+	2026-03-01T21:11:31.4122870Z,Deleting app_offline.htm,,0
+	2026-03-01T21:11:31.4279115Z,Finished successfully.,,0
+2026-03-01T21:11:31.4435373Z,Running post deployment command(s)...,3adc1874-8d5b-48cb-b33d-de8816686f7b,0
+2026-03-01T21:11:31.4747930Z,Triggering recycle (preview mode disabled).,6456a7d4-9bb2-4967-b83b-4a37a743a045,0
+2026-03-01T21:11:31.5060399Z,Deployment successful.,4fc8b910-4f51-4af1-bd0c-6d956e4474a0,0

@@ -1,0 +1,70 @@
+2026-03-01T15:21:35.7539890Z,Updating submodules.,d24cf128-f406-4c36-aacb-42738de3ad30,0
+2026-03-01T15:21:35.7852402Z,Preparing deployment for commit id '3a0999a578'.,c0703d63-ab0e-48c8-bd21-4ae718fd15e1,0
+2026-03-01T15:21:35.8477459Z,Running build. Project type: OneDeploy,f25b0966-b9f3-4ce5-bb6b-500753c9eaf9,0
+2026-03-01T15:21:35.8633687Z,Copying the manifest,cda92243-b920-41be-9f04-df4fb2dab7bb,0
+2026-03-01T15:21:35.8789923Z,Clean deploying to C:\home\site\wwwroot,0b42866a-be0f-4e18-acf1-6e21126ec549,0
+2026-03-01T15:21:35.9102475Z,Generating deployment script.,8ab1f3c7-2673-4ec2-89c2-d8b0a15d58dd,0
+	2026-03-01T15:21:35.9571269Z,Using the following command to generate deployment script: 'azure site deploymentscript -y --no-dot-deployment -r "C:\local\Temp\zipdeploy\extracted" -o "C:\home\site\deployments\tools" --basic --sitePath "C:\local\Temp\zipdeploy\extracted"'.,,0
+	2026-03-01T15:21:36.1290160Z,Generating deployment script for Web Site,,0
+	2026-03-01T15:21:36.1446392Z,Generated deployment script files,,0
+2026-03-01T15:21:36.1758872Z,Running deployment command...,933fe931-e094-4e39-930c-3847a386671f,0
+	2026-03-01T15:21:36.1758872Z,Command: "C:\home\site\deployments\tools\deploy.cmd",,0
+	2026-03-01T15:21:36.3008947Z,Handling Basic Web Site deployment.,,0
+	2026-03-01T15:21:36.4727680Z,Creating app_offline.htm,,0
+	2026-03-01T15:21:36.4727680Z,KuduSync.NET from: 'C:\local\Temp\zipdeploy\extracted' to: 'C:\home\site\wwwroot',,0
+	2026-03-01T15:21:36.4883909Z,Deleting file: 'hostingstart.html',,0
+	2026-03-01T15:21:36.4883909Z,Copying file: 'appsettings.Development.json',,0
+	2026-03-01T15:21:36.4883909Z,Copying file: 'appsettings.json',,0
+	2026-03-01T15:21:36.5040151Z,Copying file: 'Azure.Core.dll',,0
+	2026-03-01T15:21:36.5040151Z,Copying file: 'Azure.Identity.dll',,0
+	2026-03-01T15:21:36.5196408Z,Copying file: 'Backend.deps.json',,0
+	2026-03-01T15:21:36.5196408Z,Copying file: 'Backend.dll',,0
+	2026-03-01T15:21:36.5352678Z,Copying file: 'Backend.exe',,0
+	2026-03-01T15:21:36.5509030Z,Copying file: 'Backend.pdb',,0
+	2026-03-01T15:21:36.5509030Z,Copying file: 'Backend.runtimeconfig.json',,0
+	2026-03-01T15:21:36.5665229Z,Copying file: 'Backend.staticwebassets.endpoints.json',,0
+	2026-03-01T15:21:36.5665229Z,Copying file: 'Microsoft.AspNetCore.Authentication.JwtBearer.dll',,0
+	2026-03-01T15:21:36.5821460Z,Copying file: 'Microsoft.Bcl.AsyncInterfaces.dll',,0
+	2026-03-01T15:21:36.5821460Z,Copying file: 'Microsoft.Data.SqlClient.dll',,0
+	2026-03-01T15:21:36.5977736Z,Copying file: 'Microsoft.EntityFrameworkCore.Abstractions.dll',,0
+	2026-03-01T15:21:36.5977736Z,Copying file: 'Microsoft.EntityFrameworkCore.dll',,0
+	2026-03-01T15:21:36.6133972Z,Copying file: 'Microsoft.EntityFrameworkCore.Relational.dll',,0
+	2026-03-01T15:21:36.6133972Z,Copying file: 'Microsoft.EntityFrameworkCore.SqlServer.dll',,0
+	2026-03-01T15:21:36.6290219Z,Copying file: 'Microsoft.Identity.Client.dll',,0
+	2026-03-01T15:21:36.6446483Z,Copying file: 'Microsoft.Identity.Client.Extensions.Msal.dll',,0
+	2026-03-01T15:21:36.6446483Z,Copying file: 'Microsoft.IdentityModel.Abstractions.dll',,0
+	2026-03-01T15:21:36.6602731Z,Copying file: 'Microsoft.IdentityModel.JsonWebTokens.dll',,0
+	2026-03-01T15:21:36.6602731Z,Copying file: 'Microsoft.IdentityModel.Logging.dll',,0
+	2026-03-01T15:21:36.6759098Z,Copying file: 'Microsoft.IdentityModel.Protocols.dll',,0
+	2026-03-01T15:21:36.6759098Z,Copying file: 'Microsoft.IdentityModel.Protocols.OpenIdConnect.dll',,0
+	2026-03-01T15:21:36.6915247Z,Copying file: 'Microsoft.IdentityModel.Tokens.dll',,0
+	2026-03-01T15:21:36.7071489Z,Copying file: 'Microsoft.OpenApi.dll',,0
+	2026-03-01T15:21:36.7071489Z,Copying file: 'Microsoft.SqlServer.Server.dll',,0
+	2026-03-01T15:21:36.7227733Z,Copying file: 'Microsoft.Win32.SystemEvents.dll',,0
+	2026-03-01T15:21:36.7227733Z,Copying file: 'Swashbuckle.AspNetCore.Swagger.dll',,0
+	2026-03-01T15:21:36.7227733Z,Copying file: 'Swashbuckle.AspNetCore.SwaggerGen.dll',,0
+	2026-03-01T15:21:36.7384010Z,Copying file: 'Swashbuckle.AspNetCore.SwaggerUI.dll',,0
+	2026-03-01T15:21:36.7384010Z,Copying file: 'System.Configuration.ConfigurationManager.dll',,0
+	2026-03-01T15:21:36.7540242Z,Copying file: 'System.Drawing.Common.dll',,0
+	2026-03-01T15:21:36.7540242Z,Copying file: 'System.IdentityModel.Tokens.Jwt.dll',,0
+	2026-03-01T15:21:36.7540242Z,Copying file: 'System.Memory.Data.dll',,0
+	2026-03-01T15:21:36.7696517Z,Copying file: 'System.Runtime.Caching.dll',,0
+	2026-03-01T15:21:36.7696517Z,Copying file: 'System.Security.Cryptography.ProtectedData.dll',,0
+	2026-03-01T15:21:36.7852766Z,Copying file: 'System.Security.Permissions.dll',,0
+	2026-03-01T15:21:36.7852766Z,Copying file: 'System.Windows.Extensions.dll',,0
+	2026-03-01T15:21:36.8009044Z,Copying file: 'runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll',,0
+	2026-03-01T15:21:36.8009044Z,Copying file: 'runtimes\unix\lib\net6.0\System.Drawing.Common.dll',,0
+	2026-03-01T15:21:36.8165274Z,Copying file: 'runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll',,0
+	2026-03-01T15:21:36.8165274Z,Copying file: 'runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll',,0
+	2026-03-01T15:21:36.8321518Z,Copying file: 'runtimes\win\lib\net6.0\System.Drawing.Common.dll',,0
+	2026-03-01T15:21:36.8321518Z,Copying file: 'runtimes\win\lib\net6.0\System.Runtime.Caching.dll',,0
+	2026-03-01T15:21:36.8477864Z,Copying file: 'runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll',,0
+	2026-03-01T15:21:36.8477864Z,Copying file: 'runtimes\win\lib\net6.0\System.Windows.Extensions.dll',,0
+	2026-03-01T15:21:36.8477864Z,Omitting next output lines...,,0
+	2026-03-01T15:21:36.8634048Z,Finished successfully.,,0
+2026-03-01T15:21:36.8790296Z,Build completed succesfully.,d6cc7c5e-5c8a-49c6-b807-5c3c7ef8e8cc,0
+2026-03-01T15:21:36.9102819Z,Running post deployment command(s)...,316a58cd-a550-4af9-8da7-8f1641edc2e9,0
+2026-03-01T15:21:36.9415337Z,Requesting site restart,db9cc96e-401d-45bd-be34-e999c62c7fd6,0
+2026-03-01T15:21:36.9571588Z,Requesting site restart. Attempt #1,fdb203f8-a53f-489a-9dc9-227502916e1d,0
+2026-03-01T15:21:37.2852960Z,Successfully requested a restart. Attempt #1,b22507dd-fa95-4f8e-8ed3-a9c515f5021c,0
+2026-03-01T15:21:37.3009233Z,Deployment successful.,0e1e799a-2104-49e9-8aca-cd3bfa2b2ae9,0

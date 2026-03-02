@@ -1,0 +1,23 @@
+2026-03-01T20:42:07.2528928Z,Updating submodules.,223c8f9f-2bdc-4d21-929b-82aed94fd966,0
+2026-03-01T20:42:07.2841383Z,Preparing deployment for commit id 'fcbffa773d'.,9d9866d9-ea02-4c03-be38-1e56371412c1,0
+2026-03-01T20:42:07.3466394Z,Generating deployment script.,29969c79-ca27-46ad-931b-6c6743fdb894,0
+	2026-03-01T20:42:07.3779006Z,Using cached version of deployment script (command: 'azure -y --no-dot-deployment -r "C:\local\Temp\zipdeploy\extracted" -o "C:\home\site\deployments\tools" --basic --sitePath "C:\local\Temp\zipdeploy\extracted"').,,0
+2026-03-01T20:42:07.4091533Z,Running deployment command...,622c0a56-aa8d-456b-995a-a7d24a7ac7c0,0
+	2026-03-01T20:42:07.4091533Z,Command: "C:\home\site\deployments\tools\deploy.cmd",,0
+	2026-03-01T20:42:07.5966597Z,Handling Basic Web Site deployment.,,0
+	2026-03-01T20:42:07.7529084Z,Creating app_offline.htm,,0
+	2026-03-01T20:42:07.7529084Z,KuduSync.NET from: 'C:\local\Temp\zipdeploy\extracted' to: 'C:\home\site\wwwroot',,0
+	2026-03-01T20:42:07.7529084Z,Copying file: 'Backend.dll',,0
+	2026-03-01T20:42:07.7685440Z,Copying file: 'Backend.exe',,0
+	2026-03-01T20:42:07.7841611Z,Copying file: 'Backend.pdb',,0
+	2026-03-01T20:42:07.7841611Z,Copying file: 'publish\publish\publish\appsettings.Development.json',,0
+	2026-03-01T20:42:07.7841611Z,Copying file: 'publish\publish\publish\appsettings.json',,0
+	2026-03-01T20:42:07.7997860Z,Copying file: 'publish\publish\publish\Backend.deps.json',,0
+	2026-03-01T20:42:07.7997860Z,Copying file: 'publish\publish\publish\Backend.runtimeconfig.json',,0
+	2026-03-01T20:42:07.7997860Z,Copying file: 'publish\publish\publish\Backend.staticwebassets.endpoints.json',,0
+	2026-03-01T20:42:07.8154158Z,Copying file: 'publish\publish\publish\web.config',,0
+	2026-03-01T20:42:07.8154158Z,Deleting app_offline.htm,,0
+	2026-03-01T20:42:07.8154158Z,Finished successfully.,,0
+2026-03-01T20:42:07.8466659Z,Running post deployment command(s)...,933e3179-e717-412f-b329-128e52734ddd,0
+2026-03-01T20:42:07.8779126Z,Triggering recycle (preview mode disabled).,dcac4bb1-f045-4afd-a419-c2c142595cbc,0
+2026-03-01T20:42:07.9091643Z,Deployment successful.,67a21804-7eb7-4769-bd55-b2f137fe96fc,0
